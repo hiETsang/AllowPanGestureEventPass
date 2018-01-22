@@ -1,0 +1,2 @@
+# AllowPanGestureEventPass
+一行代码兼容scollView滑动手势和navigationController右滑返回。
